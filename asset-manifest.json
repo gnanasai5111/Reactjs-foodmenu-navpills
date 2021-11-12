@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Reactjs-foodmenu-navpills/static/css/main.f332e24e.chunk.css",
+    "main.js": "/Reactjs-foodmenu-navpills/static/js/main.b52f6d8a.chunk.js",
+    "main.js.map": "/Reactjs-foodmenu-navpills/static/js/main.b52f6d8a.chunk.js.map",
+    "runtime-main.js": "/Reactjs-foodmenu-navpills/static/js/runtime-main.0a3d6bd4.js",
+    "runtime-main.js.map": "/Reactjs-foodmenu-navpills/static/js/runtime-main.0a3d6bd4.js.map",
+    "static/js/2.b83f2e37.chunk.js": "/Reactjs-foodmenu-navpills/static/js/2.b83f2e37.chunk.js",
+    "static/js/2.b83f2e37.chunk.js.map": "/Reactjs-foodmenu-navpills/static/js/2.b83f2e37.chunk.js.map",
+    "index.html": "/Reactjs-foodmenu-navpills/index.html",
+    "static/css/main.f332e24e.chunk.css.map": "/Reactjs-foodmenu-navpills/static/css/main.f332e24e.chunk.css.map",
+    "static/js/2.b83f2e37.chunk.js.LICENSE.txt": "/Reactjs-foodmenu-navpills/static/js/2.b83f2e37.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a3d6bd4.js",
+    "static/js/2.b83f2e37.chunk.js",
+    "static/css/main.f332e24e.chunk.css",
+    "static/js/main.b52f6d8a.chunk.js"
+  ]
+}
